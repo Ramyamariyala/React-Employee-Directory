@@ -6,13 +6,13 @@ As a user, I have access to the list of employees at any given company. I can so
 
 # Table of Contents
 
-Description
-Demo
-links
-Usage
-tech
-licenses
-Questions
+- Description
+- Demo
+- links
+- Usage
+- Tech
+- licenses
+- Questions
 
 # Links
 https://ramyamariyala.github.io/react-Egenerator/
