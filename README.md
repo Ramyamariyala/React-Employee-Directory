@@ -17,6 +17,10 @@ As a user, I have access to the list of employees at any given company. I can so
 # Links
 https://ramyamariyala.github.io/react-Egenerator/
 
+# Screenshots 
+
+![Frontpage](employeedirectory\public\frontpage.PNG)
+
 # Usage
 
 Tech Used
