@@ -19,7 +19,7 @@ https://ramyamariyala.github.io/react-Egenerator/
 
 # Screenshots 
 
-![Frontpage](employeedirectory\public\Images\frontpage.PNG)
+![Demo](employeedirectory\public\Images\frontpage.PNG)
 
 # Usage
 
